@@ -1,0 +1,2 @@
+Project Title- Beyond The Screen : Crafting a purposeful digital presence 
+Task-2-Portfolio Project Overview- The project is a comprehensive Digital Literacy portfolio designed to fulfill the requirements of the CSE0001: Digital Literacy course , the project is thereafter structured into five core modules , each resulting in a specific deliverable that demostrates our proficiency in modern digital tools , and ethical online behaviour.
