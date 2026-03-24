@@ -16,10 +16,10 @@ Reflecting on the Work: I then documented the entire experience in my main proje
 📝 My Reflection (A Sneak Peek)
 The following is a draft of the reflection I included in my final report:  
 "For this task, I used Canva to design a clean, modern infographic. I wanted to move away from boring lists and instead show my peers how digital literacy is a 'survival skill' for engineering students. The most interesting part was trying to explain Email Etiquette visually—it’s not just about being polite, it’s about being professional. One challenge I faced was deciding what to leave out; there is so much to say about staying safe online, but I had to keep it punchy and readable for a student on the go."
-[12:48, 24/03/2026] Saurjyesh: 🛠️ The Creative Process
+: 🛠️ The Creative Process
 To get this done, I’m stepping into the role of a designer and educator:
 Platform Selection: I am using free, browser-based tools like Canva, Prezi, or Miro to ensure the infographic is professional and easy to share.  
 Targeting the Essentials: My design focuses on at least three critical areas, such as defining what digital literacy actually is, identifying must-have digital tools for students, and practicing safe internet habits.  
 Professional Presence: I’m also highlighting how to maintain a professional online presence and the "unwritten rules" of email etiquette.  
-Final Delivery: Once the design is polished, I’ll export the file and place it directly into the task-1-presentation/ folder in my G
+Final Delivery: Once the design is polished, we export the file and place it directly into the task-1-presentation/ folder in the user's GitHub Profile ( here mine)
                    
