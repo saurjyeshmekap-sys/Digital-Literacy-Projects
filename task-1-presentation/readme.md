@@ -4,7 +4,7 @@ Project Overview- The project is a comprehensive Digital Literacy Portfolio desi
                    demonstartes our proficiency in modern digital tools , and ethical online behaviour.
                    The Primary Goal of the task 1  is to produce an infographic or visual slide that simplifies
                    complex digtal concepts for all the peers , and the whole student community
-Process - [12:47, 24/03/2026] Saurjyesh: Task 1: Spreading Digital Awareness
+ Task 1: Spreading Digital Awareness
 As a Student Digital Ambassador, my first goal was to create something visual that doesn't just list rules, but actually helps my batchmates feel more confident online. I wanted to take the "textbook" definition of digital literacy and turn it into a quick-start guide for our first year at VIT Bhopal.  
 🛠️ How I Built This
 To get this done, I followed a specific workflow to ensure the quality met the faculty committee's standards:  
