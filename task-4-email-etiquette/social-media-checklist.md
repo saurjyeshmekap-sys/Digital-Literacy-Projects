@@ -1,4 +1,7 @@
 ✅ Responsible Social Media Use – College Student Checklist
+
+
+
 ✔️ Do’s
 Think before you post:
 Ask yourself:Consider the statment  “Would I be okay if a professor, recruiter, or my family saw this?” Once something is online, it’s hard to take back.
