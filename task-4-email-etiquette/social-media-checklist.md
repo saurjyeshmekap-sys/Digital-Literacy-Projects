@@ -13,6 +13,8 @@ Respect others’ opinions and boundaries:Disagreements are normal, but avoid un
                                         Stay mature in discussions.
 Manage your time wisely:It’s easy to lose hours scrolling. 
                         Set limits so social media doesn’t affect your studies, sleep, or productivity.
+
+                        
  ❌ Don’ts
 Don’t share personal or sensitive information :Avoid posting your phone number, address, passwords, or anything that could risk your privacy or safety.
 Don’t post in anger or frustration:
