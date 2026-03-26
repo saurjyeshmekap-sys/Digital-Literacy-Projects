@@ -1,4 +1,7 @@
  Case Study: UPI / Online Payment Fraud
+ 
+ Digital Crimes or Cyber Crimes include illicit acts where computers , networks , or digital devices are used to commit or facilitate criminal activity.
+ With flaws like weak international laws , human error , crime-as-a-service these are increasing rapidly.
 
 UPI fraud has become one of the most common cybercrimes among college students and everyday smartphone users.UPI frauds involve phishing, fake customer care fraud,
 QR code fraud, and SIM swap attacks.
